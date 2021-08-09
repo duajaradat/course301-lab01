@@ -1,3 +1,5 @@
+/* eslint-disable eol-last */
+
 import React from "react";
 import HornedBeasts from "./HornedBeasts";
 
@@ -6,7 +8,6 @@ class Main extends React.Component {
     return (
       <div>
         <HornedBeasts />
-       
       </div>
     );
   }
