@@ -20,7 +20,7 @@ class HornedBeasts extends React.Component {
 
   render() {
     return (
-      <div>
+      <div class="card-columns">
         <Card style={{ width: "18rem" }}>
           <Card.Img  src={this.props.img} />
           <Card.Body>
